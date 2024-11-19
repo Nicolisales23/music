@@ -13,3 +13,13 @@ body{
     display: flex;
     justify-content: center;
 }
+
+header{
+    font-size: 35px;
+    color: white;
+    border: solid 3px antiquewhite;
+    padding: 20px;
+}
+h1{
+    font-size: 40px;
+}
