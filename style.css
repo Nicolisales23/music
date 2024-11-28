@@ -25,5 +25,16 @@ h1{
 }
 .chamada-texto{
     margin-right: 5%;
-    
+}
+.categoria{
+    margin-top: 50px;
+    padding-left: 20px;
+}
+.categoria-videos img{
+    opacity: 0,5;
+    height: 200px;
+}
+.categoria-videos img:hover{
+    opacity: 1.0;
+    border: 3px solid white;
 }
